@@ -141,7 +141,7 @@ yarn add nodemon express knex pg
 
 - create the dashboard
 - make sure you have a user in the database
-- hard code the user_id to 1
+- hard code the user_id to 1 for todos insert
 
 ## hard mode
 
