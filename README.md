@@ -136,3 +136,16 @@ yarn add nodemon express knex pg
 ```
 
 2. resources folder will have several more instructions to get started (regarding table creation and database hookup)
+
+## normal mode
+
+- create the dashboard
+
+## hard mode
+
+- create the login/signup page too
+
+## nightmare mode
+
+- create a new table for tagging todos
+- be able to create them and search them with a search bar in dashboard (hint this is a many to many relationship to todos)
